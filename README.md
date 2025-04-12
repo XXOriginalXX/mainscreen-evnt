@@ -1,16 +1,48 @@
-# mainscreen
+# MEGE App – Oman Government Fitness Events App
 
-A new Flutter project.
+**MEGE** (Move. Engage. Get Energized.) is an official **Flutter mobile application** developed for the **Oman Government** to showcase and promote various **fitness and wellness events** across the country. It connects citizens with upcoming government-organized activities to encourage a healthier lifestyle.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🏃‍♂️ Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📅 View upcoming fitness events across Oman
+- 📍 Location-based event listings
+- 📝 Event details including time, venue, and organizers
+- 🔔 Notifications for new and nearby events
+- 💾 Save and bookmark favorite events
+- 🌐 Multilingual support (Arabic & English)
+- 🎨 Clean and user-friendly UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** – Cross-platform app development
+- **Dart** – Application logic and backend integration
+- **Firebase/REST API** – Real-time data management
+- **Google Maps API** – Event location and navigation
+- **Push Notifications** – Event reminders and alerts
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Firebase or REST backend setup
+- Android Studio / VS Code with Flutter extension
+
+### Setup Instructions
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/mege-app.git
+cd mege-app
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
